@@ -1,0 +1,277 @@
+{   "factoid_countries": ["CAN","USA","MEX","CHL","AUS","ZAF","NGA","PRT","IRL","SWE","CZE","TUR","RUS","MYS","KOR","CHN"],
+    "partner_countries": ["CAN", "CHE", "RUS", "GBR", "DEU", "TWN", "AUS", "ESP", "FRA", "HKG", "ARE", "JPN", "BEL", "ZAF", "NLD", "DNK", "NZL", "ISR", "ITA", "MEX", "CHL", "HUN", "EGY", "TUR", "CHN", "IRL", "SGP", "SWE", "PRT", "HRV", "LBN", "CZE", "SVN", "MYS", "KOR", "USA", "NGA", "BRA", "PER", "ARG", "NOR", "LTU", "LVA", "THA"],
+    "factoids": [
+        {
+            "location": "Seoul, Republic of Korea",
+            "institution": "Myongji University",
+            "item": {
+                "description": "A * on the Japanese legal system",
+                "bold": "book chapter"
+            },
+            "position": {
+                "bottom": "55%",
+                "left": "12%"
+            },
+            "pin_coordinates": {
+                "lat": "37.5503",
+                "long": "126.9971"
+            },
+            "id": "KOR"
+        },
+        {
+            "location": "Pierre, SD, U.S.",
+            "institution": "South Dakota State Library",
+            "item": {
+                "description": "A collection of Lakota sun dance * on CD",
+                "bold": "songs"
+            },
+            "position": {
+                "bottom": "36%",
+                "left": "65%"
+            },
+            "pin_coordinates": {
+                "lat": "44.3668",
+                "long": "-100.3538"
+            },
+            "id": "USA"
+        },
+        {
+            "location": "Halifax, NS, Canada",
+            "institution": "Canadian Museum of Immigration",
+            "item": {
+                "description": "A collection of * in MP3 files",
+                "bold": "oral histories"
+            },
+            "position": {
+                "bottom": "49%",
+                "left": "67%"
+            },
+            "pin_coordinates": {
+                "lat": "44.6509",
+                "long": "-63.5923"
+            },
+            "id": "CAN"
+        },
+        {
+            "location": "Beijing, China",
+            "institution": "National Library of China",
+            "item": {
+                "description": "A unique museum *",
+                "bold": "exhibition catalog"
+            },
+            "position": {
+                "bottom": "35%",
+                "left": "14%"
+            },
+            "pin_coordinates": {
+                "lat": "39.9042",
+                "long": "116.4074"
+            },
+            "id": "CHN"
+        },
+        {
+            "location": "Castleroy, Ireland",
+            "institution": "University of Limerick",
+            "item": {
+                "description": "An * in art history",
+                "bold": "M.A. Thesis"
+            },
+            "position": {
+                "bottom": "65%",
+                "left": "6%"
+            },
+            "pin_coordinates": {
+                "lat": "52.6711",
+                "long": "-8.5552"
+            },
+            "id": "IRL"
+        },
+        {
+            "location": "Mexico City, Mexico",
+            "institution": "El Collegio de Mexico",
+            "item": {
+                "description": "A 1920s * on Mexican servitude",
+                "bold": "pamphlet"
+            },
+            "position": {
+                "bottom": "30%",
+                "left": "65%"
+            },
+            "pin_coordinates": {
+                "lat": "19.4326",
+                "long": "-99.1332"
+            },
+            "id": "MEX"
+        },
+        {
+            "location": "Istanbul, Türkiye",
+            "institution": "Bogazici University",
+            "item": {
+                "description": "A Turkish * in scientific philosophy",
+                "bold": "article"
+            },
+            "position": {
+                "bottom": "63%",
+                "left": "18%"
+            },
+            "pin_coordinates": {
+                "lat": "41.0082",
+                "long": "28.9784"
+            },
+            "id": "TUR"
+        },
+        {
+            "location": "Johannesburg, South Africa",
+            "institution": "University of the Witwatersrand",
+            "item": {
+                "description": "An early apartheid *",
+                "bold": "government document"
+            },
+            "position": {
+                "bottom": "15%",
+                "left": "17%"
+            },
+            "pin_coordinates": {
+                "lat": "-26.2056",
+                "long": "28.0337"
+            },
+            "id": "ZAF"
+        },
+        {
+            "location": "Porto, Portugal",
+            "institution": "Universidade do Porto",
+            "item": {
+                "description": "An obscure Polish * of articles",
+                "bold": "symposium"
+            },
+            "position": {
+                "bottom": "55%",
+                "left": "5%"
+            },
+            "pin_coordinates": {
+                "lat": "41.1579",
+                "long": "-8.6291"
+            },
+            "id": "PRT"
+        },
+        {
+            "location": "Moscow, Russia",
+            "institution": "Russian State Library",
+            "item": {
+                "description": "A rare nineteenth century *",
+                "bold": "musical score"
+            },
+            "position": {
+                "bottom": "50%",
+                "left": "12%"
+            },
+            "pin_coordinates": {
+                "lat": "55.7558",
+                "long": "37.6173"
+            },
+            "id": "RUS"
+        },
+        {
+            "location": "Stockholm, Sweden",
+            "institution": "National Library of Sweden",
+            "item": {
+                "description": "A digitized 1869 * for Swedish immigrants to America",
+                "bold": "handbook"
+            },
+            "position": {
+                "bottom": "63%",
+                "left": "12%"
+            },
+            "pin_coordinates": {
+                "lat": "59.3327",
+                "long": "18.0656"
+            },
+            "id": "SWE"
+        },
+        {
+            "location": "Olomouc, Czechia",
+            "institution": "Vědecká knihovna v Olomouci",
+            "item": {
+                "description": "A late Soviet-era women's weekly *",
+                "bold": "newspaper"
+            },
+            "position": {
+                "bottom": "62%",
+                "left": "12%"
+            },
+            "pin_coordinates": {
+                "lat": "49.5938",
+                "long": "17.2509"
+            },
+            "id": "CZE"
+        },
+        {
+            "location": "Acton, Australia",
+            "institution": "Black Mountain Library",
+            "item": {
+                "description": "A 1930s * of the Asian sheep industry",
+                "bold": "survey"
+            },
+            "position": {
+                "bottom": "13%",
+                "left": "49%"
+            },
+            "pin_coordinates": {
+                "lat": "-35.2759",
+                "long": "149.1143"
+            },
+            "id": "AUS"
+        },
+        {
+            "location": "Santiago, Chile",
+            "institution": "Biblioteca Nacional de Chile",
+            "item": {
+                "description": "A digitized * on Chilean university education",
+                "bold": "rare book"
+            },
+            "position": {
+                "bottom": "15%",
+                "left": "58%"
+            },
+            "pin_coordinates": {
+                "lat": "-33.4489",
+                "long": "-70.6693"
+            },
+            "id": "CHL"
+        },
+        {
+            "location": "Semenyih, Malaysia",
+            "institution": "University of Nottingham Malaysia",
+            "item": {
+                "description": "A digitized Malaysian undergraduate student *",
+                "bold": "broadside"
+            },
+            "position": {
+                "bottom": "33%",
+                "left": "5%"
+            },
+            "pin_coordinates": {
+                "lat": "2.9474",
+                "long": "101.8451"
+            },
+            "id": "MYS"
+        },
+        {
+            "location": "Ibadan, Nigeria",
+            "institution": "University of Ibadan",
+            "item": {
+                "description": "An * in Neolithic African archaeology",
+                "bold": "unpublished paper"
+            },
+            "position": {
+                "bottom": "18%",
+                "left": "7%"
+            },
+            "pin_coordinates": {
+                "lat": "7.3775",
+                "long": "3.9470"
+            },
+            "id": "NGA"
+        }
+    ]
+}
