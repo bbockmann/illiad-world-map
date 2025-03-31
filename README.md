@@ -1,4 +1,11 @@
 # Bowdoin Interlibrary Loan Worldmap Logon Page
+
+## Author
+[Ben Bockmann](https://github.com/bbockmann)
+
+## View
+This project can be viewed at [illiad.bowdoin.edu](https://illiad.bowdoin.edu/).
+
 ## About
 This project consists of a few main components: an SVG map, JavaScript, a json configuration file, HTML, and CSS. The files container in this GitHub repo are sufficient to fully implement the logon page. However, it is likely that individual customizations will be necessary to fully integrate with an institution's ILLiad webpages.
 
