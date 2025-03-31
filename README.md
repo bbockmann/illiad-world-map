@@ -1,4 +1,4 @@
-# Bowdoin Interlibrary Loan Worldmap Logon Page
+# Bowdoin Interlibrary Loan Global Login Page
 
 ## Author
 [Ben Bockmann](https://github.com/bbockmann)
@@ -19,7 +19,7 @@ This JSON file contains the data that powers the factoids. `factoid_countries` i
 This is where a user lands when they first navigate to an institution's ILL website. In Bowdoin's case, [illiad.bowdoin.edu](https://illiad.bowdoin.edu/) direct the user to `Logon.html`.
 
 ## Updating the map and factoids
-To illustrate the process of creating a new factoid to highlight on the logon page, an example factoid will be made for TestCountry. The only files which need to be modified for this are `mapConfig.json` and `WorldMap.js`.
+To illustrate the process of creating a new factoid to highlight on the login page, an example factoid will be made for TestCountry. The only files which need to be modified for this are `mapConfig.json` and `WorldMap.js`.
 
 ### Add the country code to factoid_countries list
 Presumably, the country of the new factoid is already indicated as a partner country in the `partner_countries` list. If not, the country’s three-letter code should be added to both lists. This is how the JavaScript knows to grab the factoid and highlight the country on the map.
