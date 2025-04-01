@@ -4,6 +4,10 @@ LEGAL
 Copyright 2022 Atlas Systems, Inc. http://www.atlas-sys.com
 */
 
+/*
+This file contains all the necessary CSS for the Global Login Page, for use on the GitHub repo. 
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 * {
@@ -278,6 +282,12 @@ a.offscreen:focus {
 
 /* Styles for World Map */
 
+.card-doc-type{ /* reused this style from the request cards */
+    font-size: .75rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
 .map-container {
     margin-top: 40px;
     position: fixed;
